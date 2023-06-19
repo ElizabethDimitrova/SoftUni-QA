@@ -1,3 +1,3 @@
-##
+## EXERCISE 
 
 SoftUni-QA
